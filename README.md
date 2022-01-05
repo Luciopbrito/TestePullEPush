@@ -1,2 +1,4 @@
-# TestePullEPush
-praticando pull e push com vários repositórios locais
+# Testando comandos Pull e Push
+## Objetivo
+Usar vários ambientes para modificar o repositório remoto, testando incerções de arquivos e solucionando conflitos entre os códigos
+
